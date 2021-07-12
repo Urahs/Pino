@@ -1,2 +1,2 @@
 # Pino
-It is my first game. I made it at the end of the first semester using Python. It is a kind of text adventure that contains some puzzles. If you complete the puzzle you will be rewarded. By the way, it was made for only windows, other OS's are not supported. 
+1. dönemin sonunda python kullanarak eğlencesine yaptığım oyundur kendileri. Ne yazık ki kodları kaybettim, ancak oyunu indirip oynayabilirsiniz. Oyun bir nevi 'text adventure' oyunu olup içerisinde çözülmeyi bekleyen bir dizi bulmaca içermekte. İlk ipucunu tünelin sonuna ulaştığınızda bir kereye mahsus olarak görebilirsiniz. Şimdiye kadar oyunu bitirebilen olmadı. İyi şanslar...  
